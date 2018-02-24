@@ -13,6 +13,6 @@
 	</Item>
 	<Item Name="Settings Dialog.vi" Type="VI" URL="../Settings Dialog.vi"/>
 	<Item Name="Get Config File Path.vi" Type="VI" URL="../Get Config File Path.vi"/>
-	<Item Name="Save Settings to XML.vim" Type="VI" URL="../../../../../oscillation-monitoring/sources/support/settings/Save Settings to XML.vim"/>
-	<Item Name="Load Settings from XML.vim" Type="VI" URL="../../../../../oscillation-monitoring/sources/support/settings/Load Settings from XML.vim"/>
+	<Item Name="Save Settings to XML.vim" Type="VI" URL="../Save Settings to XML.vim"/>
+	<Item Name="Load Settings from XML.vim" Type="VI" URL="../Load Settings from XML.vim"/>
 </Library>
